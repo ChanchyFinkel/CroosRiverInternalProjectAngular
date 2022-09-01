@@ -28,6 +28,7 @@ import { UserService } from './services/user.service';
 import { WrongRouteComponent } from './modules/wrong-route/wrong-route.component';
 
 
+
 // FullCalendarModule.registerPlugins([ // register FullCalendar plugins
 //   dayGridPlugin,
 //   // interactionPlugin
